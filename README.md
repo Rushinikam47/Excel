@@ -1,5 +1,7 @@
-Sales Report & Finance Report for AtliQ Hardware
+**Sales Report & Finance Report for AtliQ Hardware**
+
 Sales Report :
+
 Project objective:
 
 1. Create a customer performance report
@@ -33,6 +35,7 @@ Technical Skills Gained:
  Establishing data model relationships with Power Pivot.
  Proficiency in incorporating supplementary data into an existing data model.
  Utilizing DAX to create calculated columns.
+ 
 Soft Skills Gained:
 
  Refined understanding of Sales & Finance Reports
